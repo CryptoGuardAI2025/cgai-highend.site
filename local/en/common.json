@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "CryptoGuardAI – Clarity in Crypto",
+    "desc": "CryptoGuardAI delivers clear decisions: mindset, live total‑market chart, tools & research."
+  },
+  "nav": {
+    "home": "Home",
+    "mindset": "Mindset",
+    "crypto": "Crypto",
+    "about": "About",
+    "blog": "Blog",
+    "account": "Login"
+  },
+  "hero": {
+    "kicker": "Manifest",
+    "title": "We set the standard for clear decisions in crypto.",
+    "lead": "Clear rules, verified information, strategic action – without FOMO. Discipline over hype.",
+    "cta1": "Read our mindset",
+    "cta2": "About us"
+  },
+  "about_long": "<p><b>CryptoGuardAI (CGAI)</b> is an AI‑assisted navigation system for the crypto market. Our goal: empower people to act <b>clearly</b> and <b>with discipline</b>—without hype or panic. We build tools that deliver real value: live market overview, understandable analysis and structured decision‑making.</p><p>What we are today: a focused, independent team. We do not promise profits and we do not provide financial advice. We deliver <b>orientation</b>, <b>transparency</b> and <b>processes</b> so decisions become traceable.</p><p>Our roadmap: expand tools (whale signals, events, heatmaps), personal areas with subscription features, and extend to stocks/ETFs. Quality and honesty over hype—always.</p>",
+  "values": {
+    "t": "Transparency",
+    "p": "Precision",
+    "r": "Reliability",
+    "t_d": "Methodology, data & limits—openly documented.",
+    "p_d": "Every statement with reasoning and context.",
+    "r_d": "Rules & processes over noise."
+  },
+  "crypto": {
+    "title": "Total Crypto Market – Live",
+    "lead": "History since 2010, real‑time updates. Calm colors, clear readability.",
+    "trader": "Trader",
+    "investor": "Investor",
+    "beginner": "Beginner"
+  },
+  "footer": {
+    "rights": "© 2025 CryptoGuardAI – All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "disclaimer": "Notes/Disclaimer"
+  },
+  "tools": {
+    "title": "Free Tools",
+    "tm_title": "Crypto Time Machine",
+    "tm_desc": "Back‑test and today: What if…—based on historical prices (CoinGecko).",
+    "rc_title": "Reality Check",
+    "rc_desc": "Quick context: Now vs. 30 days ago—trend and change."
+  },
+  "premium": {
+    "title": "Premium Features (Subscription)",
+    "sub": "Unlock after login via Stripe:",
+    "m1": "Early‑Warning (On‑Chain + Social + Regulation)",
+    "m2": "Whale Alerts Pro (with context/probabilities)",
+    "m3": "FOMO Calendar Pro (events + historical reactions)",
+    "m4": "Sentiment Heatmaps (multi‑source)",
+    "m5": "Portfolio Analysis & Optimization (risk/opportunity)",
+    "m6": "AI Sentiment Reports (daily/weekly PDF)",
+    "m7": "Exclusive On‑Chain Signals (unusual movements)"
+  }
+}
