@@ -1,54 +1,32 @@
-<!doctype html><html lang="de"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title data-i18n="meta.title">CryptoGuardAI</title>
-<meta name="description" content="" data-i18n="meta.desc">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+<!DOCTYPE html>
+<html lang="de"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Account – CGAI</title>
 <link rel="stylesheet" href="css/style.css">
-<link rel="icon" href="assets/favicon.ico"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
-<script src="js/i18n.js"></script>
-</head><body>
+<script src="js/i18n.js" defer></script>
+</head>
+<body>
+<header><div class="container top">
+  <div class="brand"><img src="assets/logo.png" alt="CGAI Logo"><div class="name">CGAI</div></div>
+  <nav>
+    <a href="index.html" data-i18n="nav_start">Start</a>
+    <a href="mindset.html" data-i18n="nav_mindset">Mindset</a>
+    <a href="krypto.html" data-i18n="nav_krypto">Krypto</a>
+    <a href="ueber-uns.html" data-i18n="nav_ueber">Über uns</a>
+    <a href="blog.html" data-i18n="nav_blog">Blog</a>
+  </nav>
+  <div class="spacer"></div>
+  <div class="lang"><button id="lang-de">DE</button><button id="lang-en">EN</button></div>
+  <div class="auth"><a href="account.html">Login</a></div>
+</div></header>
 
-<nav class="nav"><div class="container nav-inner">
-  <div class="brand">
-    <img src="assets/logo.png" alt="CGAI Logo">
-    <div class="brand-text">CGAI</div>
-  </div>
-  <div class="menu">
-    <a data-match="index" href="index.html" data-i18n="nav.home"></a>
-    <a data-match="mindset" href="mindset.html" data-i18n="nav.mindset"></a>
-    <a data-match="krypto" href="krypto.html" data-i18n="nav.crypto"></a>
-    <a data-match="ueber" href="ueber-uns.html" data-i18n="nav.about"></a>
-    <a data-match="blog" href="blog.html" data-i18n="nav.blog"></a>
-    <span class="lang"><button data-lang="de" onclick="switchLang('de')">DE</button><button data-lang="en" onclick="switchLang('en')">EN</button></span>
-    <a class="login-link" href="account.html" data-i18n="nav.account"></a>
-  </div>
-</div></nav>
-
-<header class="hero"><div class="wrap"><div class="media"><img src="assets/header_3.jpg" alt=""></div><div class="overlay"></div></div>
-  <div class="content"><div class="container"><p class="kicker">Login</p><h1>Konto</h1></div></div></header>
-<main class="section"><div class="container grid cols-2">
-  <div class="card"><h3>E‑Mail Login</h3>
-    <p>Diese Seite ist vorbereitet für Supabase Auth (E‑Mail, Google, Apple). Du kannst die Anbindung später aktivieren, ohne das Layout zu ändern.</p>
-    <p><b>Aktuell</b> ist die Website frei zugänglich; Premium‑Module schaltest du über Stripe frei.</p>
-  </div>
-  <div class="card"><h3>Premium freischalten</h3>
-    <p>Nach Zahlung via Stripe bekommst du Zugriff im persönlichen Bereich.</p>
-    <a class="btn primary" href="personal.html">Zum persönlichen Bereich</a>
-  </div>
-</div></main>
-
-<footer class="footer"><div class="container">
-  <div class="links">
-    <a href="datenschutz.html" data-i18n="footer.privacy"></a>
-    <a href="terms.html" data-i18n="footer.terms"></a>
-    <a href="disclaimer.html" data-i18n="footer.disclaimer"></a>
-  </div>
-  <p style="margin-top:10px" data-i18n="footer.rights"></p>
-</div></footer>
-<div class="cookie" id="cookie">
-  <div><b>Cookies.</b> Wir nutzen technisch notwendige Cookies für Funktion & Sprache. Keine Tracking‑Cookies ohne Zustimmung.</div>
-  <div class="actions"><button class="accept" onclick="acceptCookies()">Akzeptieren</button></div>
+<div class="container" style="padding:36px 0">
+  <h2>Login / Registrierung</h2>
+  <div class="card"><p>Inhalt folgt. Diese Seite verwendet das gleiche Layout und die Sprachenumschaltung.</p></div>
 </div>
 
+<footer><div class="container row">
+  <div>© 2025 CGAI</div>
+  <div class="small"><a href="datenschutz.html">Datenschutz</a> · <a href="terms.html">Nutzungsbedingungen</a> · <a href="disclaimer.html">Disclaimer</a></div>
+</div></footer>
 </body></html>
